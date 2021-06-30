@@ -7,18 +7,18 @@ const reviews = [{
         text: "Hi, i am the developer of this website nice to see you here. We all would really appriciate if you participate in the event. piacere di conoscerti",
     },
     {
-        id: 3,
-        name: "Manas Singh Chauhan",
-        job: "Poetry event host",
-        img: "./मानस चौहान 3.png",
-        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime magni nisi cupiditate!",
-    },
-    {
         id: 2,
         name: "Akshat Shukla",
         job: "resource Manager",
         img: "./WhatsApp Image 2021-06-28 at 00.12.02.jpeg",
         text: "Hi as a Resource manager; I make sure that our organization's resources have enough capacity to deliver upcoming projects.I also Assign people to projects based on their skills. Well good to see you here would appriciate if you participate in our Event.",
+    },
+    {
+        id: 3,
+        name: "Manas Singh Chauhan",
+        job: "Poetry event host",
+        img: "./मानस चौहान 3.png",
+        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime magni nisi cupiditate!",
     },
     {
         id: 4,

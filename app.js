@@ -18,7 +18,7 @@ const reviews = [{
         name: "Manas Singh Chauhan",
         job: "Poetry event host",
         img: "./मानस चौहान 3.png",
-        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime magni nisi cupiditate!",
+        text: "Hi! I'm the people person. So pleased to see you here. Being the poetry event host I'll ensure that we all unfurl the tremendous knowledge and entertainment. Our deligence will put a tenacious mark on this event. See you in the competition.Hakuna Matata!",
     },
     {
         id: 4,
@@ -37,7 +37,7 @@ const reviews = [{
     {
         id: 6,
         name: "Vaishnavi Singh",
-        job: "Dance event host",
+        job: "Dance event hostess",
         img: "./WhatsApp Image 2021-06-28 at 04.55.39.jpeg",
         text: "Hi, I am the event host of Dance Competition. Dance the movement of body in rhythmic way, usually to music and within a given space for the purpose of expressing an idea or emotion. Thankyou!",
     },
@@ -53,7 +53,21 @@ const reviews = [{
         name: "Zikra Rafat",
         job: "participant's guide",
         img: "./Screenshot_2021-06-29-12-56-40-87_965bbf4d18d205f782c6b8409c5773a4.jpg",
-        text: "Hi very sweet of you to pay a visit to us; I will regularly keep you all updated with the stuffs going on in the competition",
+        text: "Hi very sweet of you to pay a visit to us; I will regularly keep you all updated with the stuffs going on in the competition...",
+    },
+    {
+        id: 9,
+        name: "Saika Jannat",
+        job: "Event Coordinator",
+        img: "./WhatsApp Image 2021-06-30 at 11.27.23.jpeg",
+        text: "Hi I'm helper of this event it is not necessary to only study in life, along with studies we should also have the ability to see the talent inside us... I hope you enjoy the event and learn lots of new things about yourself from this. Thankyou! for being here.",
+    },
+    {
+        id: 10,
+        name: "Alok Kumar",
+        job: "Singing event host",
+        img: "./IMG-20210630-WA0089.jpg",
+        text: "Hi, I am the event host of singing competition. Singing is the act of producing musical sounds from the vocal cord. A person who sings is kind and joyful hope to see you in the Event. Thank you!",
     },
 ];
 

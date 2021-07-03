@@ -69,6 +69,13 @@ const reviews = [{
         img: "./IMG-20210630-WA0089.jpg",
         text: "Hi, I am the event host of singing competition. Singing is the act of producing musical sounds from the vocal cord. A person who sings is kind and joyful hope to see you in the Event. Thank you!",
     },
+    {
+        id: 10,
+        name: "Kamaldeep Singh",
+        job: "Event Promoter",
+        img: "./IMG_20210630_212816.jpg",
+        text: "Hi, I am the promoter of the event i promote the events and bring new energatic Participants to the Event.Thankyou! for Participating in our evevnt.",
+    },
 ];
 
 const img = document.getElementById("person-img");
